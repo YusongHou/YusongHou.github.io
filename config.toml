@@ -96,17 +96,17 @@ uglyURLs = false
 # 作者信息
 [author]
     # 名字
-    name = "reuixiy"
+    name = "皓月冷千山"
     # 邮箱
-    email = "reuixiy@gmail.com"
+    email = "hys403683723@gmail.com"
     # 座右铭或简介
-    motto = "Viva La Vida"
+    motto = "全世界无产者，联合起来！"
     # 头像
     avatar = "/icons/apple-touch-icon.png"
     # 网站（默认值：baseURL）
     website = "https://io-oi.me/"
     # 推特
-    twitter = "reuixiy"
+    twitter = "hylqs1997"
 
 # 相关文章
 [related]

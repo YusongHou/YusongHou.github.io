@@ -41,7 +41,9 @@ categories: ["学习"]
 * 一个中间操作链，生成一条流水线 filter\map\limit\sorted\distinct\skip
 * 一个终端操作，执行流水线并生成结果 forEach\count\collect\anyMatch
 
-#### 终端操作与中间操作<img src="operations.jpg">
+#### 终端操作与中间操作
+
+![](/images/collector.png)
 
 * 中间操作 intermediate operations
 * 终端操作 terminal operation
@@ -91,9 +93,11 @@ categories: ["学习"]
 
 * partitioningBy返回布尔值
 
-#### 预定义收集器Collectors<img src="collector1.jpg">
+#### 预定义收集器Collectors
 
-<img src="collector2.jpg">
+![](/images/collector1.png)
+
+![](/images/collector2.png)
 
 #### 并行流
 
